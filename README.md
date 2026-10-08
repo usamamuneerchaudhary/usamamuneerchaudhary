@@ -22,7 +22,6 @@
     <a href="https://github.com/sponsors/usamamuneerchaudhary">
         <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" height="34"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=usamamuneerchaudhary" height="34"/>
   </p>
 
 
