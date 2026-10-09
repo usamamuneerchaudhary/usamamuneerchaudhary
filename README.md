@@ -27,7 +27,7 @@
 
 <h3 align="left">🚀 About Me:</h3>
 
-My name is Usama Muneer, a software engineer based in England, United Kingdom, currently working at Rentable. With over ten years of professional experience, I specialise in building web applications and backend systems with Laravel, and I enjoy turning the problems I solve along the way into open-source packages for the community.
+My name is Usama Muneer, a software engineer based in England, United Kingdom. With over ten years of professional experience, I specialise in building web applications and backend systems with Laravel, and I enjoy turning the problems I solve along the way into open-source packages for the community.
 
 You can check out my repositories, and don't forget to star ⭐ any repository you find helpful.
 
