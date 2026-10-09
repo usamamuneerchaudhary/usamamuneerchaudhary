@@ -34,7 +34,7 @@ You can check out my repositories, and don't forget to star ⭐ any repository y
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,wordpress,js,vue,tailwind,mysql,nodejs,git&perline=10"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,aws,react,docker,wordpress,js,vue,tailwind,mysql,git&perline=10"/>
 </p>
 
 <h3 align="left">📦 Open-Source Packages:</h3>
@@ -49,11 +49,6 @@ You can check out my repositories, and don't forget to star ⭐ any repository y
 <h3 align="left">✒️ Blog:</h3>
 
 I write about Laravel, PHP and web development at [thewebtier.com](https://thewebtier.com/).
-
-<h3 align="left">🏆 GitHub Trophies:</h3>
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=usamamuneerchaudhary&theme=onestar&row=1&column=7"/>
-</p>
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamamuneerchaudhary&layout=compact&langs_count=5&theme=codeSTACKr"/>
