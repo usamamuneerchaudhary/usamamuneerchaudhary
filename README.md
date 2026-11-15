@@ -52,5 +52,7 @@ I write about Laravel, PHP and web development at [thewebtier.com](https://thewe
 
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usamamuneerchaudhary&layout=compact&langs_count=5&theme=codeSTACKr"/>
-
+</p>
+<p>
+    <img src="https://raw.githubusercontent.com/usamamuneerchaudhary/usamamuneerchaudhary/output/github-contribution-grid-snake-dark.svg">
 </p>
